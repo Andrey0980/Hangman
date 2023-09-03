@@ -1,5 +1,5 @@
 ### Hangman
- Hangman game created in C#
+ Hangman console game created in C#
  Main file - Hangman.exe
 
 ## v1.0
